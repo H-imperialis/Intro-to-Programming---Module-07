@@ -59,9 +59,9 @@ We can then compare the output of the text file vs the pickle file.
 
 **Figure 3: Text Data vs Pickle Data** 
 
-!(/assets/images/text_file_image.png)
+!(/H-imperialis/Intro-to-Programming---Module-07/text_file_image.png)
 
-!(/assets/images/pickle_text_file_image.png)
+!(/H-imperialis/Intro-to-Programming---Module-07/pickle_text_file_image.png)
 
 **Topic: Pickle Caveats**
 
