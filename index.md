@@ -1,4 +1,4 @@
-#remote_theme: Time machine
+theme: Time machine
 
 Name: Axel Adams
 Date: Feb, 28, 2023
